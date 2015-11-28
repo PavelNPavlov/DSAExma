@@ -1,1 +1,6 @@
 C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\bin\Debug\CombinationVariationPetrubations.exe.config
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\bin\Debug\CombinationVariationPetrubations.exe
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\bin\Debug\CombinationVariationPetrubations.pdb
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\obj\Debug\CombinationVariationPetrubations.csprojResolveAssemblyReference.cache
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\obj\Debug\CombinationVariationPetrubations.exe
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\CombinationVariationPetrubations\obj\Debug\CombinationVariationPetrubations.pdb
