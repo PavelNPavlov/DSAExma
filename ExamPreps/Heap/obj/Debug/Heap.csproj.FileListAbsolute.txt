@@ -3,3 +3,4 @@ C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Heap\bin\Debug\Heap.exe
 C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Heap\bin\Debug\Heap.pdb
 C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Heap\obj\Debug\Heap.exe
 C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Heap\obj\Debug\Heap.pdb
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache

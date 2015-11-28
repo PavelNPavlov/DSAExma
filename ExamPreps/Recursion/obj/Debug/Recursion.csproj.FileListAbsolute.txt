@@ -1,1 +1,7 @@
 C:\Users\PavelPC\Documents\DSAExamPrepr\ExamPreps\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\bin\Debug\Recursion.exe
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\bin\Debug\Recursion.pdb
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\obj\Debug\Recursion.exe
+C:\Users\PavelPC\Documents\DSAExma\ExamPreps\Recursion\obj\Debug\Recursion.pdb

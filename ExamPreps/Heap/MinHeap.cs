@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heap
 {
+    //source: http://allanrbo.blogspot.bg/2011/12/simple-heap-implementation-priority.html
     public class MinHeap<T> where T : IComparable
     {
         private List<T> data = new List<T>();
